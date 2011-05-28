@@ -1,0 +1,5 @@
+name: XcraftDailyBonus
+main: me.Engelier.XcraftDailyBonus.XcraftDailyBonus
+version: 0.2
+author: Engelier
+depend: [Permissions]
