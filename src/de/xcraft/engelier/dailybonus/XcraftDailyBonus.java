@@ -1,4 +1,4 @@
-package me.Engelier.XcraftDailyBonus;
+package de.xcraft.engelier.dailybonus;
 
 import java.io.File;
 import java.util.logging.Logger;

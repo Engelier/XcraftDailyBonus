@@ -1,4 +1,4 @@
-package me.Engelier.XcraftDailyBonus;
+package de.xcraft.engelier.dailybonus;
 
 import org.bukkit.event.Listener;
 import org.bukkit.event.server.PluginDisableEvent;
